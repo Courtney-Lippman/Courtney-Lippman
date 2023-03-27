@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </div>
 
 <div id="badges" align="center">
-  <a href="www.linkedin.com/in/courtneylippman">
+  <a href="https://www.linkedin.com/in/courtneylippman/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/Court83653658">
@@ -41,4 +41,4 @@ I am a Full Stack Developer from Colorado.
 - :telescope: I graduated from Turing School of Software & Design.
 - :seedling: Exploring Node.JS, Next.JS, and Express
 - :zap: In my free time, I volunteer as a backcountry ski patroller.
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/courtneylippman)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/courtneylippman/)
