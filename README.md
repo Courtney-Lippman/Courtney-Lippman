@@ -36,7 +36,7 @@ Here are some ideas to get you started:
 
 ### :woman_technologist: About Me :
 
-I am a Full Stack Developer from Colorado.
+I am a Full Stack Software Engineer from Colorado :mountain_snow:.
 
 - :telescope: I am a passionate software engineer who graduated from <a href="https://turing.edu/">Turing School of Software & Design</a>. I love contributing my skills and expertise to build intuitive and quality applications.
 - :seedling: Currently exploring Node.JS, Next.JS, and Express.
