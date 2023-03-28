@@ -38,8 +38,8 @@ Here are some ideas to get you started:
 
 I am a Full Stack Software Engineer from Colorado :mountain_snow:.
 
-- :telescope: I am a passionate software engineer who graduated from <a href="https://turing.edu/">Turing School of Software & Design</a>. I love contributing my skills and expertise to build intuitive and quality applications.
-- :seedling: Currently exploring Node.JS, Next.JS, and Express.
+- :telescope: I am a passionate software engineer who graduated from <a href="https://turing.edu/">Turing School of Software & Design</a>. I love contributing my skills and expertise to build innovative and quality applications.
+- :seedling: I am currently learning Node.JS, Next.JS, and Express.
 - :zap: In my free time, I volunteer as a backcountry ski patroller.
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/courtneylippman/)
 
